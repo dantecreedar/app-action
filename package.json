@@ -1,0 +1,11 @@
+{
+  "name": "app-action",
+  "version": "0.0.1",
+  "description": "app-action-beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Alexis Galli",
+  "license": "ISC"
+}
